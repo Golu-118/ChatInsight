@@ -9,8 +9,6 @@ An interactive **Streamlit web app** that analyzes exported WhatsApp chats to un
 ### Live Demo  
 🔗 [Click Here](https://chatinsight-q57s.onrender.com/)  
 
-*(Replace with your deployed Heroku/Render link once live)*  
-
 ---
 
 ## 🚀 Features  
