@@ -1,4 +1,4 @@
 # whatsapp-chat-analysis
-A streamlit app to analyze your whatsapp chats
+A Streamlit app to analyze our WhatsApp chats!
 
-Demo Link: https://wca-campusx.herokuapp.com/
+
